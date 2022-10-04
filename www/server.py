@@ -62,6 +62,7 @@ def generate_html(setcounter=None, overview=False):
     <!-- JQuery -->
     <script type="text/javascript" src="jquery.min.js"></script>
     <script type="text/javascript" src="jquery-ui.min.js"></script>
+    <script type="text/javascript" src="jquery-migrate-1.4.1.js"></script>
 
     <!-- JSDump debugging utility. -->
     <script type="text/javascript" src="jsDump.js"></script>
